@@ -45,7 +45,8 @@
     "//기술 스택/기술 스택/iOS/기술 스택/iOS/SwiftUI/기술 스택/iOS/SwiftUI/SwiftUI/기술 스택/iOS/SwiftUI/SwiftUI/리팩토링",
     "//기술 스택/기술 스택/iOS/기술 스택/iOS/SwiftUI/기술 스택/iOS/SwiftUI/SwiftUI",
     "//기술 스택/기술 스택/iOS/기술 스택/iOS/아키텍처 ",
-    "//기술 스택/기술 스택/iOS"
+    "//기술 스택/기술 스택/iOS",
+    "//기술 스택/기술 스택/iOS/기술 스택/iOS/아키텍처"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

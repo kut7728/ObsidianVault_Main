@@ -11,11 +11,9 @@
             "id": "3d44dce56d34cfce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "기술 스택/iOS/아키텍처/아키텍처.md",
-                "mode": "source",
-                "source": false
+                "path": "기술 스택/iOS/아키텍처"
               },
               "icon": "lucide-file",
               "title": "아키텍처"
@@ -94,7 +92,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -207,12 +206,12 @@
   },
   "active": "3d44dce56d34cfce",
   "lastOpenFiles": [
-    "기술 스택/iOS/아키텍처/Clean Architecture.md",
+    "기술 스택/iOS/아키텍처/아키텍처.md",
     "기술 스택/iOS/iOS.md",
+    "기술 스택/iOS/아키텍처/Clean Architecture.md",
     "Vault.md",
     "기술 스택/Flutter/Flutter 강의/‘오늘도 출근’ 프로젝트.md",
     "기술 스택/Flutter/Flutter.md",
-    "기술 스택/iOS/아키텍처/아키텍처.md",
     "기술 스택/iOS/아키텍처.md",
     "기술 스택/iOS/SwiftUI/Views/Views Hierarchy.md",
     "기술 스택/iOS/SwiftUI/Views/TabBarView.md",
