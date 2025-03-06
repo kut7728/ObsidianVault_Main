@@ -1,0 +1,188 @@
+{
+  "recentFiles": [
+    {
+      "basename": "‘오늘도 출근’ 프로젝트",
+      "path": "기술 스택/Flutter/Flutter 강의/‘오늘도 출근’ 프로젝트.md"
+    },
+    {
+      "basename": "Flutter",
+      "path": "기술 스택/Flutter/Flutter.md"
+    },
+    {
+      "basename": "아키텍처",
+      "path": "기술 스택/iOS/아키텍처/아키텍처.md"
+    },
+    {
+      "basename": "Views Hierarchy",
+      "path": "기술 스택/iOS/SwiftUI/Views/Views Hierarchy.md"
+    },
+    {
+      "basename": "TabBarView",
+      "path": "기술 스택/iOS/SwiftUI/Views/TabBarView.md"
+    },
+    {
+      "basename": "Views",
+      "path": "기술 스택/iOS/SwiftUI/Views/Views.md"
+    },
+    {
+      "basename": "영역에 테두리 치기",
+      "path": "기술 스택/iOS/SwiftUI/Views/영역에 테두리 치기.md"
+    },
+    {
+      "basename": "오토 레이아웃",
+      "path": "기술 스택/iOS/SwiftUI/Views/오토 레이아웃.md"
+    },
+    {
+      "basename": "Alert",
+      "path": "기술 스택/iOS/SwiftUI/Views/Alert.md"
+    },
+    {
+      "basename": "Concurrency (동시성)",
+      "path": "기술 스택/iOS/SwiftUI/Views/Concurrency (동시성).md"
+    },
+    {
+      "basename": "리팩토링",
+      "path": "기술 스택/iOS/SwiftUI/Views/리팩토링.md"
+    },
+    {
+      "basename": "iOS 공부",
+      "path": "기술 스택/iOS/iOS 공부.md"
+    },
+    {
+      "basename": "Computed Property",
+      "path": "기술 스택/iOS/Swift/Computed Property.md"
+    },
+    {
+      "basename": "Clean Architecture",
+      "path": "Clean Architecture.md"
+    },
+    {
+      "basename": "NotificationCenter",
+      "path": "NotificationCenter.md"
+    },
+    {
+      "basename": "2025-02-28",
+      "path": "2025-02-28.md"
+    },
+    {
+      "basename": "print 와 debugPrint",
+      "path": "기술 스택/iOS/UIKit/Views/print 와 debugPrint.md"
+    },
+    {
+      "basename": "AutoLayout",
+      "path": "기술 스택/iOS/UIKit/Views/AutoLayout.md"
+    },
+    {
+      "basename": "ScrollView",
+      "path": "기술 스택/iOS/SwiftUI/Views/ScrollView.md"
+    },
+    {
+      "basename": "List 뷰",
+      "path": "기술 스택/iOS/SwiftUI/Views/List 뷰.md"
+    },
+    {
+      "basename": "LazyVGrid",
+      "path": "기술 스택/iOS/SwiftUI/Views/LazyVGrid.md"
+    },
+    {
+      "basename": "UICollectionView",
+      "path": "UICollectionView.md"
+    },
+    {
+      "basename": "Ch05 일기 앱 만들기",
+      "path": "기술 스택/iOS/UIKit/패스트캠퍼스 UIKit 강의/Ch05 일기 앱 만들기.md"
+    },
+    {
+      "basename": "UITabBar",
+      "path": "UITabBar.md"
+    },
+    {
+      "basename": "UITableView",
+      "path": "기술 스택/iOS/UIKit/Views/UITableView.md"
+    },
+    {
+      "basename": "Ch04 To-Do 앱 만들기",
+      "path": "기술 스택/iOS/UIKit/패스트캠퍼스 UIKit 강의/Ch04 To-Do 앱 만들기.md"
+    },
+    {
+      "basename": "UIStackView",
+      "path": "기술 스택/iOS/UIKit/Views/UIStackView.md"
+    },
+    {
+      "basename": "String",
+      "path": "기술 스택/iOS/Swift/String.md"
+    },
+    {
+      "basename": "map & .compactMap",
+      "path": "기술 스택/iOS/Swift/map & .compactMap.md"
+    },
+    {
+      "basename": "typealias",
+      "path": "기술 스택/iOS/Swift/typealias.md"
+    },
+    {
+      "basename": "데이터 타입",
+      "path": "기술 스택/iOS/Swift/데이터 타입.md"
+    },
+    {
+      "basename": "Swift REST API",
+      "path": "기술 스택/iOS/Swift/Swift REST API.md"
+    },
+    {
+      "basename": "배열, 딕셔너리 (Collection)",
+      "path": "기술 스택/iOS/Swift/배열, 딕셔너리 (Collection).md"
+    },
+    {
+      "basename": "MVVM 디자인 패턴",
+      "path": "기술 스택/iOS/Swift/MVVM 디자인 패턴.md"
+    },
+    {
+      "basename": "클로저 Closure",
+      "path": "기술 스택/iOS/Swift/클로저 Closure.md"
+    },
+    {
+      "basename": "UIAlertController",
+      "path": "기술 스택/iOS/UIKit/Views/UIAlertController.md"
+    },
+    {
+      "basename": "Ch03 아이폰 계산기 앱 만들기",
+      "path": "기술 스택/iOS/UIKit/패스트캠퍼스 UIKit 강의/Ch03 아이폰 계산기 앱 만들기.md"
+    },
+    {
+      "basename": "Ch01 명언생성기 앱 만들기",
+      "path": "기술 스택/iOS/UIKit/패스트캠퍼스 UIKit 강의/Ch01 명언생성기 앱 만들기.md"
+    },
+    {
+      "basename": "Ch02 LED전광판 앱 만들기",
+      "path": "기술 스택/iOS/UIKit/패스트캠퍼스 UIKit 강의/Ch02 LED전광판 앱 만들기.md"
+    },
+    {
+      "basename": "UserDefaults",
+      "path": "기술 스택/iOS/UIKit/Views/UserDefaults.md"
+    },
+    {
+      "basename": "viewController의 생명주기",
+      "path": "기술 스택/iOS/UIKit/Views/viewController의 생명주기.md"
+    },
+    {
+      "basename": "다른 뷰 컨트롤러에 데이터 넘겨주기",
+      "path": "기술 스택/iOS/UIKit/Views/다른 뷰 컨트롤러에 데이터 넘겨주기.md"
+    },
+    {
+      "basename": "화면 전환하기",
+      "path": "기술 스택/iOS/UIKit/Views/화면 전환하기.md"
+    },
+    {
+      "basename": "UIButton에 태그를 달아서 구별하기",
+      "path": "기술 스택/iOS/UIKit/Views/UIButton에 태그를 달아서 구별하기.md"
+    },
+    {
+      "basename": "UIKit 에서 프리뷰 사용하기",
+      "path": "기술 스택/iOS/UIKit/Views/UIKit 에서 프리뷰 사용하기.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
