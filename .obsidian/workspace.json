@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기술 스택/Flutter/Flutter 강의/‘오늘도 출근’ 프로젝트.md",
+                "file": "기술 스택/iOS/아키텍처/아키텍처.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "‘오늘도 출근’ 프로젝트"
+              "title": "아키텍처"
             }
           }
         ]
@@ -38,19 +38,9 @@
             "id": "b14a8c6e286d2912",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          },
-          {
-            "id": "066f24cc5a9d565f",
-            "type": "leaf",
-            "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -93,6 +83,16 @@
               "icon": "clock",
               "title": "Recent Files"
             }
+          },
+          {
+            "id": "d31de10ff06dbf94",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
         ]
       }
@@ -115,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기술 스택/Flutter/Flutter 강의/‘오늘도 출근’ 프로젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "‘오늘도 출근’ 프로젝트 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -134,12 +133,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기술 스택/Flutter/Flutter 강의/‘오늘도 출근’ 프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "‘오늘도 출근’ 프로젝트 의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
@@ -163,13 +161,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기술 스택/Flutter/Flutter 강의/‘오늘도 출근’ 프로젝트.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "‘오늘도 출근’ 프로젝트 의 개요"
+              "title": "개요"
             }
           }
         ],
@@ -205,11 +202,15 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "3d44dce56d34cfce",
   "lastOpenFiles": [
+    "기술 스택/iOS/아키텍처/Clean Architecture.md",
+    "기술 스택/iOS/iOS.md",
+    "Vault.md",
+    "기술 스택/Flutter/Flutter 강의/‘오늘도 출근’ 프로젝트.md",
     "기술 스택/Flutter/Flutter.md",
     "기술 스택/iOS/아키텍처/아키텍처.md",
     "기술 스택/iOS/아키텍처.md",
@@ -224,7 +225,6 @@
     "기술 스택/iOS/iOS 공부.md",
     "기술 스택/iOS/아키텍처",
     "기술 스택/iOS/Swift/Computed Property.md",
-    "Clean Architecture.md",
     "NotificationCenter.md",
     "2025-02-28.md",
     "기술 스택/iOS/UIKit/Views/print 와 debugPrint.md",
@@ -236,9 +236,6 @@
     "Assets/Pasted image 20250305195550.png",
     "기술 스택/iOS/UIKit/패스트캠퍼스 UIKit 강의/Ch05 일기 앱 만들기.md",
     "기술 스택/iOS/UIKit/StoryBoard",
-    "UITabBar.md",
-    "기술 스택/iOS/UIKit/Views/UITableView.md",
-    "기술 스택/iOS/UIKit/패스트캠퍼스 UIKit 강의/Ch04 To-Do 앱 만들기.md",
     "기술 스택/iOS",
     "Tags",
     "Assets/CleanShot_2024-11-13_at_20.56.372x.png",

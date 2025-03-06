@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "아키텍처",
+      "path": "기술 스택/iOS/아키텍처/아키텍처.md"
+    },
+    {
+      "basename": "Clean Architecture",
+      "path": "기술 스택/iOS/아키텍처/Clean Architecture.md"
+    },
+    {
       "basename": "‘오늘도 출근’ 프로젝트",
       "path": "기술 스택/Flutter/Flutter 강의/‘오늘도 출근’ 프로젝트.md"
     },
     {
       "basename": "Flutter",
       "path": "기술 스택/Flutter/Flutter.md"
-    },
-    {
-      "basename": "아키텍처",
-      "path": "기술 스택/iOS/아키텍처/아키텍처.md"
     },
     {
       "basename": "Views Hierarchy",
@@ -51,10 +55,6 @@
     {
       "basename": "Computed Property",
       "path": "기술 스택/iOS/Swift/Computed Property.md"
-    },
-    {
-      "basename": "Clean Architecture",
-      "path": "Clean Architecture.md"
     },
     {
       "basename": "NotificationCenter",

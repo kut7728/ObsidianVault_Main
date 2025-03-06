@@ -37,7 +37,6 @@
   "expandedSpaces": [
     "/",
     "//기술 스택",
-    "//기술 스택/기술 스택/iOS",
     "//기술 스택/기술 스택/iOS/기술 스택/iOS/SwiftUI/기술 스택/iOS/SwiftUI/SwiftUI/기술 스택/iOS/SwiftUI/SwiftUI/LazyVGrid",
     "//기술 스택/기술 스택/iOS/기술 스택/iOS/SwiftUI/기술 스택/iOS/SwiftUI/SwiftUI/기술 스택/iOS/SwiftUI/SwiftUI/List 뷰",
     "//기술 스택/기술 스택/iOS/기술 스택/iOS/SwiftUI/기술 스택/iOS/SwiftUI/SwiftUI/기술 스택/iOS/SwiftUI/SwiftUI/ScrollView",
@@ -46,9 +45,7 @@
     "//기술 스택/기술 스택/iOS/기술 스택/iOS/SwiftUI/기술 스택/iOS/SwiftUI/SwiftUI/기술 스택/iOS/SwiftUI/SwiftUI/리팩토링",
     "//기술 스택/기술 스택/iOS/기술 스택/iOS/SwiftUI/기술 스택/iOS/SwiftUI/SwiftUI",
     "//기술 스택/기술 스택/iOS/기술 스택/iOS/아키텍처 ",
-    "//기술 스택/기술 스택/Flutter",
-    "//기술 스택/기술 스택/iOS/기술 스택/iOS/아키텍처",
-    "//기술 스택/기술 스택/Flutter/기술 스택/Flutter/Flutter 강의"
+    "//기술 스택/기술 스택/iOS"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -63,7 +60,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": true,
+  "inlineContextExpanded": false,
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "banners": true,
