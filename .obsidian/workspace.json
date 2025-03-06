@@ -11,12 +11,14 @@
             "id": "3d44dce56d34cfce",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "기술 스택/iOS/아키텍처"
+                "file": "기술 스택/iOS/아키텍처/Clean Architecture.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "아키텍처"
+              "title": "Clean Architecture"
             }
           }
         ]
@@ -97,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bd96f5bb373453e3",
@@ -206,9 +209,14 @@
   },
   "active": "3d44dce56d34cfce",
   "lastOpenFiles": [
+    "UICollectionView.md",
+    "NotificationCenter.md",
     "기술 스택/iOS/아키텍처/아키텍처.md",
-    "기술 스택/iOS/iOS.md",
     "기술 스택/iOS/아키텍처/Clean Architecture.md",
+    "기술 스택/iOS/아키텍처",
+    "기술 스택/iOS/iOS.md",
+    "무제.md",
+    "기술 스택/iOS/무제.md",
     "Vault.md",
     "기술 스택/Flutter/Flutter 강의/‘오늘도 출근’ 프로젝트.md",
     "기술 스택/Flutter/Flutter.md",
@@ -222,18 +230,13 @@
     "기술 스택/iOS/SwiftUI/Views/Concurrency (동시성).md",
     "기술 스택/iOS/SwiftUI/Views/리팩토링.md",
     "기술 스택/iOS/iOS 공부.md",
-    "기술 스택/iOS/아키텍처",
     "기술 스택/iOS/Swift/Computed Property.md",
-    "NotificationCenter.md",
     "2025-02-28.md",
     "기술 스택/iOS/UIKit/Views/print 와 debugPrint.md",
     "기술 스택/iOS/UIKit/Views/AutoLayout.md",
     "기술 스택/iOS/SwiftUI/Views/ScrollView.md",
     "기술 스택/iOS/SwiftUI/Views/List 뷰.md",
-    "기술 스택/iOS/SwiftUI/Views/LazyVGrid.md",
-    "UICollectionView.md",
     "Assets/Pasted image 20250305195550.png",
-    "기술 스택/iOS/UIKit/패스트캠퍼스 UIKit 강의/Ch05 일기 앱 만들기.md",
     "기술 스택/iOS/UIKit/StoryBoard",
     "기술 스택/iOS",
     "Tags",

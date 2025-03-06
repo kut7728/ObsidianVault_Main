@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Clean Architecture",
+      "path": "기술 스택/iOS/아키텍처/Clean Architecture.md"
+    },
+    {
+      "basename": "UICollectionView",
+      "path": "UICollectionView.md"
+    },
+    {
+      "basename": "NotificationCenter",
+      "path": "NotificationCenter.md"
+    },
+    {
       "basename": "아키텍처",
       "path": "기술 스택/iOS/아키텍처/아키텍처.md"
     },
     {
       "basename": "iOS",
       "path": "기술 스택/iOS/iOS.md"
-    },
-    {
-      "basename": "Clean Architecture",
-      "path": "기술 스택/iOS/아키텍처/Clean Architecture.md"
     },
     {
       "basename": "‘오늘도 출근’ 프로젝트",
@@ -61,10 +69,6 @@
       "path": "기술 스택/iOS/Swift/Computed Property.md"
     },
     {
-      "basename": "NotificationCenter",
-      "path": "NotificationCenter.md"
-    },
-    {
       "basename": "2025-02-28",
       "path": "2025-02-28.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "LazyVGrid",
       "path": "기술 스택/iOS/SwiftUI/Views/LazyVGrid.md"
-    },
-    {
-      "basename": "UICollectionView",
-      "path": "UICollectionView.md"
     },
     {
       "basename": "Ch05 일기 앱 만들기",
