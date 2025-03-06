@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기술 스택/iOS/아키텍처/MVC.md",
+                "file": "기술 스택/iOS/아키텍처/MVVM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MVC"
+              "title": "MVVM"
             }
           }
         ]
@@ -209,8 +209,11 @@
   },
   "active": "3d44dce56d34cfce",
   "lastOpenFiles": [
-    "기술 스택/iOS/아키텍처/MVVM.md",
+    "Assets/CleanShot 2025-03-06 at 14.43.25@2x.png",
+    "Assets/CleanShot 2025-03-06 at 14.36.32@2x 1.png",
     "기술 스택/iOS/아키텍처/MVC.md",
+    "Assets/CleanShot 2025-03-06 at 14.36.32@2x.png",
+    "기술 스택/iOS/아키텍처/MVVM.md",
     "기술 스택/iOS/아키텍처/아키텍처.md",
     "기술 스택/iOS/아키텍처/Clean Architecture.md",
     "UICollectionView.md",
@@ -235,7 +238,6 @@
     "기술 스택/iOS/Swift/Computed Property.md",
     "2025-02-28.md",
     "기술 스택/iOS/UIKit/Views/print 와 debugPrint.md",
-    "기술 스택/iOS/UIKit/Views/AutoLayout.md",
     "Assets/Pasted image 20250305195550.png",
     "기술 스택/iOS/UIKit/StoryBoard",
     "기술 스택/iOS",
@@ -247,8 +249,6 @@
     "Assets/Untitled 4 10.png",
     "Assets/Untitled 3 12.png",
     "Assets/Untitled 2 18.png",
-    "Assets/Untitled 1 24.png",
-    "Assets/39065_35315_1426.jpg",
     "Assets/GWFF_통계_인사이트-05호.pdf",
     "Assets/GallupReport(20230718)_스마트폰.pdf",
     "Assets/75F1892E-F086-42DE-A578-6CF5345CE953_1_201_a.heic",
