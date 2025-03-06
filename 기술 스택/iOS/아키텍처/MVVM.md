@@ -9,3 +9,6 @@ Model - View - ViewModel
 - View로 들어온 이벤트가 ViewModel로 공지되고, ViewModel이 Model을 업데이트 함
 
 # 예제 프로젝트
+[better-mvvm-architecture-from-kickstarter-oss](http://minsone.github.io/programming/better-mvvm-architecture-from-kickstarter-oss)
+
+
