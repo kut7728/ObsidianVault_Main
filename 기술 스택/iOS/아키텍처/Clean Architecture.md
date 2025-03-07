@@ -36,3 +36,14 @@
 - Network, CoreData 등이 해당됨
 
 
+# 레이어에 대한 설명
+![[Pasted image 20250305195550.png]]
+### 1️⃣ Presentation Layer
+
+
+### 2️⃣ Domain Layer
+
+Entities + Use Cases
+
+
+### 3️⃣ Data Layer

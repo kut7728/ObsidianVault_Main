@@ -163,12 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "기술 스택/iOS/아키텍처/Clean Architecture.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "Clean Architecture 의 개요"
             }
           }
         ],
