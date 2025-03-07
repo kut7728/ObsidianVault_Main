@@ -13,7 +13,7 @@
 
 # 원들에 대한 설명
 
-![[Pasted image 20250307103856.png]]
+![[1__HxTmyiDQNCfACBZle67rw.webp]]
 ## 1️⃣ Entities
 
 - 비즈니스 모델
@@ -76,4 +76,7 @@ DB + API
 
 
 # 참고
+## 정리글
 [\[Clean Architecture\] iOS Clean Architecture + MVVM 개념과 예제](https://eunjin3786.tistory.com/207?category=837198)
+
+### 레포지터리
