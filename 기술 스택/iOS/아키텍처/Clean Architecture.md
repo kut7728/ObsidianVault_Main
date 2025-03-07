@@ -42,7 +42,7 @@
 
 UI + Presenters
 - UI (ViewControllers / Views) 와 Presenters (ViewModel) 이 해당됨
-- ViewModel은 하나이상의 UseCases를 
+- ViewModel은 하나이상의 UseCases를 실행하기 때문에 Presentation Layer는 Domain Layer에 의존 함
 
 
 ### 2️⃣ Domain Layer
@@ -52,3 +52,5 @@ Entities + Use Cases
 
 
 ### 3️⃣ Data Layer
+
+DB + API
