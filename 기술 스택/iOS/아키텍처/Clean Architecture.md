@@ -40,11 +40,15 @@
 ![[Pasted image 20250305195550.png]]
 ### 1️⃣ Presentation Layer
 
+UI + Presenters
+- UI (ViewControllers / Views) 와 Presenters (ViewModel) 이 해당됨
+- ViewModel은 하나이상의 UseCases를 
+
 
 ### 2️⃣ Domain Layer
 
 Entities + Use Cases
-- 
+- 다른 레이어들에게 어떠한 영향도 받지 않음
 
 
 ### 3️⃣ Data Layer
