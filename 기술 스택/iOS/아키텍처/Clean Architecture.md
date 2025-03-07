@@ -76,7 +76,9 @@ DB + API
 
 
 # 참고
-## 정리글
+##### 정리글
 [\[Clean Architecture\] iOS Clean Architecture + MVVM 개념과 예제](https://eunjin3786.tistory.com/207?category=837198)
+[Clean Architecture는 모바일 개발을 어떻게 도와주는가? - (1) 경계선: 계층 나누기](https://medium.com/@justfaceit/clean-architecture%EB%8A%94-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%84%EC%99%80%EC%A3%BC%EB%8A%94%EA%B0%80-1-%EA%B2%BD%EA%B3%84%EC%84%A0-%EA%B3%84%EC%B8%B5%EC%9D%84-%EC%A0%95%EC%9D%98%ED%95%B4%EC%A4%80%EB%8B%A4-b77496744616)
 
-### 레포지터리
+##### 레포지터리
+[GitHub - DroidKaigi/conference-app-2018: The Official Conference App for DroidKaigi 2018 Tokyo](https://github.com/DroidKaigi/conference-app-2018) → 간소화 클린 아키텍처
