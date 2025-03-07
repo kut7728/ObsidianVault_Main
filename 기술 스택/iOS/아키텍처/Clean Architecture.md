@@ -25,6 +25,7 @@
 ## 2️⃣ Use Cases
 
 - 비즈니스 로직이 여기에 구현됨
+- Presenter Layer에서 호출되어 사용됨
 - 시스템의 모든 유스케이스를 캡슐화하고 구현한다
 - 엔티티로부터의 혹은 엔티티에서의 데이터 흐름을 조합한다.
 
@@ -66,11 +67,12 @@
 
 
 # 데이터 플로우
-1. View(UI) 에서 ViewModel(Presenter)의 메소드를 호출
-2. ViewModel은 UseCase를 실행
-3. UseCase는 Repository로부터 데이터를 조합
-4. Repository는 Network 또는 DB에서 데이터를 처리해서 가져옴
-5. 데이터는 다시 View(UI)로 넘어가 화면을 구성함
+1. Presentation Layer에서 유저 요청을 받고
+2. View(UI) 에서 ViewModel(Presenter)의 메소드를 호출
+3. ViewModel은 UseCase를 실행
+4. UseCase는 Repository로부터 데이터를 조합
+5. Repository는 Network 또는 DB에서 데이터를 처리해서 가져옴
+6. 데이터는 다시 View(UI)로 넘어가 화면을 구성함
 
 # 계층을 나누는 장점
 ### 소스코드 전반을 쉽게 장악 할 수 있다
