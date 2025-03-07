@@ -28,4 +28,8 @@
 - 유스케이스, 엔티티에서 사용하던 타입에서 외부의 기능에 용이한 타입으로 데이터를 변환
 - Coordinator, ViewModel, ViewController 등이 해당됨
 
-## 4️⃣ Devices, Web, UI, DB, External
+## 4️⃣ Devices, Web, UI, DB, External Interfaces
+
+-  데이터베이스나, 웹 프레임워크 등 프레임워크나 도구들로 구성됨
+- Network, CoreData 등이 해당됨
+
