@@ -20,7 +20,7 @@
 ## 1️⃣ Entities
 
 - 비즈니스 모델
-- 메서드를 갖는 객체 / 데이터 구조 / 함수의 집합
+- 메서드를 갖는 객체 / 데이터 구조(Codable 채택하는 그놈들) / 함수의 집합
 
 ## 2️⃣ Use Cases
 
@@ -52,7 +52,8 @@
 ### 2️⃣ Domain Layer
 
 **Entities + Use Cases**
-- 다른 레이어들에게 어떠한 영향도 받지 않음
+- 다른 레이어들에게 어떠한 영향도 받지 않음 → 다른 레이어를 참조하지 않음
+- Entity
 
 
 ### 3️⃣ Data Repository Layer
