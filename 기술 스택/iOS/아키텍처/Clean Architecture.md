@@ -19,4 +19,8 @@
 
 ## 2️⃣ Use Cases
 
-- 
+- 시스템의 모든 유스케이스를 캡슐화하고 구현한다
+- 엔티티로부터의 혹은 엔티티에서의 데이터 흐름을 조합한다.
+
+
+## 3️⃣ Controllers, Gateway, Prestenters
