@@ -22,6 +22,7 @@
 
 ## 2️⃣ Use Cases
 
+- 비즈니스 로직이 여기에 구현됨
 - 시스템의 모든 유스케이스를 캡슐화하고 구현한다
 - 엔티티로부터의 혹은 엔티티에서의 데이터 흐름을 조합한다.
 
@@ -34,27 +35,27 @@
 ## 4️⃣ Devices, Web, UI, DB, External Interfaces
 
 -  데이터베이스나, 웹 프레임워크 등 프레임워크나 도구들로 구성됨
-- Network, CoreData 등이 해당됨
+- Network, CoreData, View 등이 해당됨
 
 
 # 레이어에 대한 설명
 ![[Pasted image 20250305195550.png]]
 ### 1️⃣ Presentation Layer
 
-UI + Presenters
+**UI + Presenters**
 - UI (ViewControllers / Views) 와 Presenters (ViewModel) 이 해당됨
 - ViewModel은 하나이상의 UseCases를 실행하기 때문에 Presentation Layer는 Domain Layer에 의존 함
 
 
 ### 2️⃣ Domain Layer
 
-Entities + Use Cases
+**Entities + Use Cases**
 - 다른 레이어들에게 어떠한 영향도 받지 않음
 
 
 ### 3️⃣ Data Repository Layer
 
-DB + API
+**DB + API**
 - Repository 프로토콜의 구현체 (Repository Implementations)와 Data Sources들이 해당됨
 - Repository는 다른 Data Sources (DB, API)로부터의  데이터를 처리하는 책임이 있음
 - Data Layer에는 API응답으로 받은 JSON 데이터를 Domain Layer에 있는 모델로 변환하는 작업이 들어있음
