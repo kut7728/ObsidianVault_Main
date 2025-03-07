@@ -51,6 +51,9 @@ Entities + Use Cases
 - 다른 레이어들에게 어떠한 영향도 받지 않음
 
 
-### 3️⃣ Data Layer
+### 3️⃣ Data Repository Layer
 
 DB + API
+- Repository 프로토콜의 구현체 (Repository Implementations)와 Data Sources들이 해당됨
+- Repository는 다른 Data Sources (DB, API)로부터의  데이터를 처리하는 책임이 있음
+- API응답으로 받은 JSON 데이터를 Domain Layer에 있는 모델로 변환하는 작업이 들어있음
