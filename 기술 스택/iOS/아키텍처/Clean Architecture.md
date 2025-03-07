@@ -65,3 +65,5 @@ DB + API
 3. UseCase는 Repository로부터 데이터를 조합
 4. Repository는 Network 또는 DB에서 데이터를 처리해서 가져옴
 5. 데이터는 다시 View(UI)로 넘어가 화면을 구성함
+
+# 
