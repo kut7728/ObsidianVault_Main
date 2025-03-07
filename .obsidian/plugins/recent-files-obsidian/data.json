@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Clean Architecture",
+      "path": "기술 스택/iOS/아키텍처/Clean Architecture.md"
+    },
+    {
       "basename": "MVVM",
       "path": "기술 스택/iOS/아키텍처/MVVM.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "아키텍처",
       "path": "기술 스택/iOS/아키텍처/아키텍처.md"
-    },
-    {
-      "basename": "Clean Architecture",
-      "path": "기술 스택/iOS/아키텍처/Clean Architecture.md"
     },
     {
       "basename": "UICollectionView",
