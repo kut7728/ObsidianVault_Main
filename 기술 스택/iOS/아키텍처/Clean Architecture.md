@@ -59,7 +59,8 @@
 
 **DB + API**
 - Repository 프로토콜의 구현체 (Repository Implementations)와 Data Sources들이 해당됨
-- Repository는 다른 Data Sources (DB, API)로부터의  데이터를 처리하는 책임이 있음
+- Repository는 다른 Data Sources (DB, API)로부터의  데이터를 가져오고 저장하는 객체
+	- API에서 받아온다면 → AlamoFire, URLSession등이 데이터를 가져오는 코드가 담긴 객체
 - Data Layer에는 API응답으로 받은 JSON 데이터를 Domain Layer에 있는 모델로 변환하는 작업이 들어있음
 
 
