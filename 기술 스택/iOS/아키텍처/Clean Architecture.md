@@ -23,4 +23,9 @@
 - 엔티티로부터의 혹은 엔티티에서의 데이터 흐름을 조합한다.
 
 
-## 3️⃣ Controllers, Gateway, Prestenters
+## 3️⃣ Controllers, Gateway, Presenters (Interface Adapter)
+
+- 유스케이스, 엔티티에서 사용하던 타입에서 외부의 기능에 용이한 타입으로 데이터를 변환
+- Coordinator, ViewModel, ViewController 등이 해당됨
+
+## 4️⃣ Devices, Web, UI, DB, External
