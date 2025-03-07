@@ -60,7 +60,8 @@ DB + API
 
 
 # 데이터 플로우
-1. View 에서 ViewModel의 메소드를 호출
+1. View(UI) 에서 ViewModel(Presenter)의 메소드를 호출
 2. ViewModel은 UseCase를 실행
 3. UseCase는 Repository로부터 데이터를 조합
-4. Repository는 Network 또는 DB에서 
+4. Repository는 Network 또는 DB에서 데이터를 처리해서 가져옴
+5. 데이터는 다시 View(UI)로 넘어가 화면을 구성함
