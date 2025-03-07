@@ -56,4 +56,11 @@ Entities + Use Cases
 DB + API
 - Repository 프로토콜의 구현체 (Repository Implementations)와 Data Sources들이 해당됨
 - Repository는 다른 Data Sources (DB, API)로부터의  데이터를 처리하는 책임이 있음
-- API응답으로 받은 JSON 데이터를 Domain Layer에 있는 모델로 변환하는 작업이 들어있음
+- Data Layer에는 API응답으로 받은 JSON 데이터를 Domain Layer에 있는 모델로 변환하는 작업이 들어있음
+
+
+# 데이터 플로우
+1. View 에서 ViewModel의 메소드를 호출
+2. ViewModel은 UseCase를 실행
+3. UseCase는 Repository로부터 데이터를 조합
+4. Repository는 Network 또는 DB에서 
