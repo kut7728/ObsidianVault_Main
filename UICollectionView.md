@@ -6,7 +6,9 @@
 - 리스크 뿐만 아니라 슬라이드같은 다양한 방식으로 표현 가능 ([[UITableView]]와 다른 점)
 
 # 기능 구현
-## ✅ UICollectionViewDataSource
+
+![[CleanShot 2025-03-09 at 23.54.21@2x.png]]
+## 1️⃣ UICollectionViewDataSource
 - 프로토콜
 - 섹션이 몇개인지, 섹션속에 셀이 몇개인지
 - 컬렉션 뷰로 보여지는 컨텐츠들을 관리하는 객체
@@ -17,7 +19,7 @@
 ### 2. CellForItemAt
 - 뷰의 지정된 위치에 표시할 셀을 요청하는 메서드
 
-## ✅ UICollectionViewLayout
+## 2️⃣ UICollectionViewLayout
 - 컬렉션 뷰의 시각적인 설정 담당
 ### Cell
 - 컬렉션 뷰의 컨텐츠를 표시
@@ -29,7 +31,7 @@
 ### Decorative View
 - 컬렉션 뷰의 배경을 꾸미는 용도
 
-## ✅ UICollectionViewFlowLayout
+## 3️⃣ UICollectionViewFlowLayout
 - 컬렉션 뷰의 셀들의 배치를 담당하는 객체
 	- 하나의 열에 몇개를 배치할지
 	- 슬라이드처럼 가로로 보기에 적합하게 배치할지 등등
@@ -42,6 +44,6 @@
 4. 섹션에 header, footer가 있다면 이들의 크기 설정
 5. 레이아웃의 스크롤 방향 설정
 
-## ✅ UICollectionViewDelegate
+## 4️⃣ UICollectionViewDelegate
 - 컨텐츠의 표현, 사용자와의 상호작용 관리 → cell 선택시 세부 뷰로 페이지 이동 등에 사용
 - 필수 구현 요소 아님
