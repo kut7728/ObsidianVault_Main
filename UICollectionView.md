@@ -54,4 +54,8 @@
 
 ## 1️⃣ size
 1. Absolute : 절대적인 사이즈를 지정하는 방식
-2. Estimate : 시스템 글꼴 크기런타임시에 
+   ``` swift
+   let absoluteSize = NSCollectionLayoutSize
+   ```
+2. Estimate : 시스템 글꼴 크기 변경등으로 런타임시에 유동적으로 바뀌는 방식
+3. Fractional : 상위 컨테이너의 크기에 비례하도록 설정하는 방식
