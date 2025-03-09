@@ -58,7 +58,6 @@
 let absoluteSize = NSCollectionLayoutSize(widthDimension: .absolute(44), 
 										heightDimension: .absolute(44))
 ```
-
 2. Estimate : 시스템 글꼴 크기 변경등으로 런타임시에 유동적으로 바뀌는 방식
 ``` swift
 let absoluteSize = NSCollectionLayoutSize(widthDimension: .estimate(100), 
