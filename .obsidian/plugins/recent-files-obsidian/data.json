@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "UICollectionView",
+      "path": "UICollectionView.md"
+    },
+    {
       "basename": "Clean Architecture",
       "path": "기술 스택/iOS/아키텍처/Clean Architecture.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "아키텍처",
       "path": "기술 스택/iOS/아키텍처/아키텍처.md"
-    },
-    {
-      "basename": "UICollectionView",
-      "path": "UICollectionView.md"
     },
     {
       "basename": "NotificationCenter",
