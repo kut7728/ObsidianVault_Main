@@ -47,3 +47,6 @@
 ## 4️⃣ UICollectionViewDelegate
 - 컨텐츠의 표현, 사용자와의 상호작용 관리 → cell 선택시 세부 뷰로 페이지 이동 등에 사용
 - 필수 구현 요소 아님
+
+# 커스텀 컬렉션 뷰
+### Compositional Layout
