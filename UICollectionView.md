@@ -69,3 +69,4 @@ let absoluteSize = NSCollectionLayoutSize(widthDimension: .fractional(0.2),
 										heightDimension: .fractional(0.2))
 ```
 
+  
