@@ -50,3 +50,6 @@
 
 # 커스텀 컬렉션 뷰
 ### Compositional Layout
+
+![[CleanShot 2025-03-10 at 00.05.19@2x.png]]
+
