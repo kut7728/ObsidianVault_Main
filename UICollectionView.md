@@ -58,13 +58,13 @@
 let absoluteSize = NSCollectionLayoutSize(widthDimension: .absolute(44), 
 										heightDimension: .absolute(44))
 ```
-2. Estimate : 시스템 글꼴 크기 변경등으로 런타임시에 유동적으로 바뀌는 방식
-``` swift
+1. Estimate : 시스템 글꼴 크기 변경등으로 런타임시에 유동적으로 바뀌는 방식
+	``` swift
 let absoluteSize = NSCollectionLayoutSize(widthDimension: .estimate(100), 
 									heightDimension: .estimate(200))
 ```
-3. Fractional : 상위 컨테이너의 크기에 비례하도록 설정하는 방식
-``` swift
+1. Fractional : 상위 컨테이너의 크기에 비례하도록 설정하는 방식
+	``` swift
 let absoluteSize = NSCollectionLayoutSize(widthDimension: .fractional(0.2), 
 										heightDimension: .fractional(0.2))
 ```
